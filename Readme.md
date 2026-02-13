@@ -1,4 +1,4 @@
-# 🌞 NoGlassesClasses - A SunSmart Scheduler  
+# 🌞 SharpEYE
 
 Optimizing outdoor and indoor school activities using local sunlight data to promote **student health, vision, and productivity**.  
 
@@ -18,7 +18,7 @@ Schools need a balanced schedule that:
 
 ## 💡 Our Solution  
 
-The **SunSmart Scheduler** dynamically generates a monthly class timetable for grades 1–5:  
+The Scheduler dynamically generates a monthly class timetable for grades 1–5:  
 
 - Uses **astronomical sunrise/sunset data** for a given location  
 - Ensures **2 outdoor classes per day**, avoiding peak UV hours  
